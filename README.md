@@ -1,4 +1,4 @@
 # CPE-301
 GitHub page for the final project. 
 
-I, Brandon Foy, worked alone for this project. 
+I did not work with a group on this project. 
